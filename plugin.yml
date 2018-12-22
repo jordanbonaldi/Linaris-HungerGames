@@ -1,0 +1,11 @@
+main: net.theuniverscraft.BukkitGame.BukkitGame
+name: BukkitGame_TheUniversCraft
+version: 0.4
+commands:
+  hungergame:
+    aliases: hg
+    description: commande administateur pour le hungergame
+    usage: /<command> <sous comande> [args]
+  sponsor:
+    description: kit suplementaire
+    usage: /<command>
